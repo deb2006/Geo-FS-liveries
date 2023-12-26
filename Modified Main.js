@@ -34,7 +34,7 @@ async function init(){
     //Load liveries
 
 
-    await fetch("https://github.com/deb2006/Geo-FS-liveries/blob/main/Modified%20livery.js").then(res => res.json()).then(data => liveryobj = data)
+    await fetch("https://github.io/deb2006/Geo-FS-liveries/blob/main/Modified%20livery.js").then(res => res.json()).then(data => liveryobj = data)
 
     //remove original buttons
 
