@@ -8845,7 +8845,7 @@
                     "name": "Air India (old design)",
                     "texture": [
                         
-                        "https://github.com/deb2006/Geo-FS-liveries/blob/main/airindia2.jpg"
+                        "https://github.io/deb2006/Geo-FS-liveries/blob/main/airindia2.jpg"
                     ]
                 }
             ]
